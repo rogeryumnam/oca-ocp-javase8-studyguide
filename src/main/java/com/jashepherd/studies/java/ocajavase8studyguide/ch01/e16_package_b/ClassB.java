@@ -5,7 +5,7 @@ import com.jashepherd.studies.java.ocajavase8studyguide.ch01.e16_package_a.Class
 /**
  * Chapter 1: Java Building Blocks<br/>
  * Understanding Package Declarations and Imports<br/>
- * Creating a New Package - pages 13-14
+ * Creating a New Package - pages 13-15
  * <p>
  * The directory structure on your computer is related to the package name.<br>
  * ClassA path:
