@@ -8,6 +8,10 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch01.e25_default_initia
  * A local variable is a variable defined within a method. Local variables must be initialized
  * before use. They do not have a default value and contain garbage data until initialized. The
  * compiler will not let you read an uninitialized value.
+ * <p>
+ * Variables that are not local variables are known as instance variables or class variables.
+ * Instance variables are also called fields. Class variables are shared across multiple objects.
+ * You can tell a variable is a class variable because it has the keyword static before it.
  */
 public class DefaultInitialization {
 
