@@ -1,5 +1,5 @@
 /.idea
-
+*.txt
 
 # Created by https://www.gitignore.io/api/java,jetbrains,sublimetext,gradle,windows,osx
 
