@@ -3,11 +3,11 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e01_binary_operato
 /**
  * Chapter 2: Operators and Statements<br/>
  * Working with Binary Arithmetic Operators<br/>
- * Arithmetic Operators - pages 54-56
+ * Arithmetic Operators - pages 54-55
  * <p>
  * Pretty basic operator precedence stuff.  % is modulus, also pretty basic.
  */
-public class PracticeBinary {
+public class A1PracticeBinary {
 	int x1 = 2 * 5 + 3 * 4 - 8;  // x1 = 14
 	int x2 = 2 * ((5 + 3) * 4 - 8);  // x2 = 48
 
