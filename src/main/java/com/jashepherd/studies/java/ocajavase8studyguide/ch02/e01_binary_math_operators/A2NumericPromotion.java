@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e01_binary_operators;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e01_binary_math_operators;
 
 /**
  * Chapter 2: Operators and Statements<br/>
