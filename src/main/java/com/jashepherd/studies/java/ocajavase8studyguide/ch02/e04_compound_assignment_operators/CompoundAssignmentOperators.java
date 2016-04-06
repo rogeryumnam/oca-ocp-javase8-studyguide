@@ -3,8 +3,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e04_compound_assig
 /**
  * Chapter 2: Operators and Statements<br/>
  * Using Additional Binary Operators<br/>
- * Compound AssignmentOperators - page 62
- * <p>
+ * Compound Assignment Operators - page 62
  */
 public class CompoundAssignmentOperators {
 	public static void main(String[] args) {
