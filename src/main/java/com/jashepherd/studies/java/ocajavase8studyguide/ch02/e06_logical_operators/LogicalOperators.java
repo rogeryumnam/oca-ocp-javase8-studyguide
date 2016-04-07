@@ -3,7 +3,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e06_logical_operat
 /**
  * Chapter 2: Operators and Statements<br/>
  * Using Additional Binary Operators<br/>
- * Logical Operators - page 63
+ * Logical Operators - pages 64-65
  * <ul>
  * <li>AND is only true if both operands are true.</li>
  * <li>Inclusive OR is only false if both operands are false.</li>
