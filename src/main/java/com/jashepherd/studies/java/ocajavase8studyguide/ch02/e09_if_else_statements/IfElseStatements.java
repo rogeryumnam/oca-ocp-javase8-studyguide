@@ -4,7 +4,6 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e09_if_else_statem
  * Chapter 2: Operators and Statements<br/>
  * Understanding Java Statements<br/>
  * The if-then-else Statement - pages 68-70
- * <p>
  */
 public class IfElseStatements {
 	public static void main(String... args) {
