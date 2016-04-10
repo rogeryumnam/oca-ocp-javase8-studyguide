@@ -47,7 +47,7 @@ public class SwitchStatements {
 				id = 0;
 				break;
 			/*
-			case lastName:  // DOES NOT COMPILE - not constant
+			case lastName:  // DOES NOT COMPILE - not constant even though parameter is final
 				id = 8;
 				break;
 			case 5:  // DOES NOT COMPILE - does not match data type
