@@ -5,12 +5,12 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e11_while_statemen
  * Understanding Java Statements<br/>
  * The while Statement - pages 76-78
  */
-public class WhileStatements {
+public class A1WhileStatements {
 
 	int roomInBelly = 5;
 
 	static public void main(String[] args) {
-		WhileStatements ws = new WhileStatements();
+		A1WhileStatements ws = new A1WhileStatements();
 		ws.eatCheese(6);
 
 		// watch out for infinite loops
