@@ -5,7 +5,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e12_for_statements
  * Understanding Java Statements<br/>
  * The Basic for Statement - pages 80-83
  */
-public class BasicFor {
+public class A1BasicFor {
 	public static void main(String... args) {
 		// prints the numbers 0 - 9
 		for (int i = 0; i < 10; i++) {
