@@ -3,7 +3,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch03.e01_creating_manip
 /**
  * Chapter 3: Core Java APIs<br>
  * Creating and Manipulating Strings<br>
- * pages 102
+ * page 102
  */
 public class StringBasics {
 	// these two statements both create a String object
