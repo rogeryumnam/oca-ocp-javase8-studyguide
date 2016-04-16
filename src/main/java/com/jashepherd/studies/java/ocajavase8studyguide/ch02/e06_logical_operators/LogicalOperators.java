@@ -5,9 +5,9 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e06_logical_operat
  * Using Additional Binary Operators<br/>
  * Logical Operators - pages 64-65
  * <ul>
- * <li>AND is only true if both operands are true.</li>
- * <li>Inclusive OR is only false if both operands are false.</li>
- * <li>Exclusive OR is only true if the operands are different.</li>
+ * <li><code>&</code> AND is only true if both operands are true.</li>
+ * <li><code>|</code> Inclusive OR is only false if both operands are false.</li>
+ * <li><code>^</code> Exclusive OR is only true if the operands are different.</li>
  * </ul>
  */
 public class LogicalOperators {
@@ -31,7 +31,12 @@ public class LogicalOperators {
 		x = false & false;  // false
 		x = false && false;  // false
 
-		x = true || (5 < 4);  // true = right side never evaluated
+		x = true ^ true; // false
+		x = true ^ false;  // true
+		x = false ^ true; // true
+		x = false ^ false; // false
+
+		x = true || (5 < 4);  // true = right side never evaluated hence "short-circuit"
 
 		// useful for null checks - prevents null pointer exception with short-circuit operator
 		LogicalOperators lo = new LogicalOperators();
