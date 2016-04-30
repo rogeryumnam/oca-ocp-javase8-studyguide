@@ -2,7 +2,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch03.e09_stringbuilder_
 
 /**
  * Chapter 3: Core Java APIs<br>
- * Creating and Manipulating Strings<br>
+ * Using the StringBuilder Class<br>
  * Important StringBuilder Methods - pages 114-117
  */
 public class StringBuilderMethods {

@@ -2,7 +2,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch03.e08_stringbuilder_
 
 /**
  * Chapter 3: Core Java APIs<br>
- * Creating and Manipulating Strings<br>
+ * Using the StringBuilder Class<br>
  * StringBuilder Mutability and Chaining - pages 112-114
  */
 public class StringBuilderMutabilityChaining {
