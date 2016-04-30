@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch03.e03_immutability;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch03.e03_string_immutability;
 
 /**
  * Chapter 3: Core Java APIs<br>
