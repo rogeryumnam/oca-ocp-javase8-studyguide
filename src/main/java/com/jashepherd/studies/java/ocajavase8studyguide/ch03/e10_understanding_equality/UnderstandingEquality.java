@@ -2,8 +2,8 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch03.e10_understanding_
 
 /**
  * Chapter 3: Core Java APIs<br>
- * Creating and Manipulating Strings<br>
- * Understanding Equality - pages 117-119
+ * Understanding Equality<br>
+ * pages 117-119
  */
 public class UnderstandingEquality {
 	public static void main(String... args) {
