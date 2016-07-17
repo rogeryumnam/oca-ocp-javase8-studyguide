@@ -10,7 +10,7 @@ public class Scope {
 		String one, two;
 		one = new String("a");
 		two = new String("b");
-		one = two;  // the object hold String "a" is now eligible for garbage collection
+		one = two;  // the object holding String "a" is now eligible for garbage collection
 		System.gc();  // suggest to the JVM that now is a good time to run garbage collection - not guaranteed!
 		String three = one;
 		one = null;
