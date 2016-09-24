@@ -8,7 +8,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch01.e21_object_referen
  */
 public class ObjectRefsAndPrimitives {
 
-	// Java has eight build in primitive data types
+	// Java has eight built in primitive data types
 	boolean bool = true;
 	byte b = 123;        // 8-bit integral value
 	short s = 123;       // 16-bit integral value

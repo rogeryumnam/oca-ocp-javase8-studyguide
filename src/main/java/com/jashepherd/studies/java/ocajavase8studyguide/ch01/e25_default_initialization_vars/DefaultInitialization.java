@@ -25,7 +25,7 @@ public class DefaultInitialization {
 		return reply;
 	}
 
-	public void findAnser(boolean check) {
+	public void findAnswer(boolean check) {
 		int answer;
 		int onlyOneBranch;
 		if (check) {

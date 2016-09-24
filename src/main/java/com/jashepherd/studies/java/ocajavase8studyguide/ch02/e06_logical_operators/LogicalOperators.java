@@ -45,14 +45,14 @@ public class LogicalOperators {
 		}
 
 		// bad example
-		if ( lo != null & lo.getValue() < 5) {  // throws an exception if x is null
+		if ( lo != null & lo.getValue() < 5) {  // throws an exception if lo is null
 			// do something
 		}
 
 		int x1 = 6;
 		boolean y = (x1 >= 6) || (++x1 <= 7);
 		System.out.println(x1);
-		/* Because x >= 6 is true, the increment operator on the right-hand side of the expression
+		/* Because x1 >= 6 is true, the increment operator on the right-hand side of the expression
 		is never evaluated, so the output is 6. */
 	}
 
