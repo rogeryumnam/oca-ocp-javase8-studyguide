@@ -36,7 +36,7 @@ public class UnderstandingEquality {
 		System.out.println(t1 == t1);       // true
 		System.out.println(t1 == t2);       // false
 		System.out.println(t1 == t3);       // true
-		System.out.println(t1.equals(t2));  // false
+		System.out.println(t1.equals(t2));  // false - because Tiger does not implement equals()
 		System.out.println(t1.equals(t3));  // true
 	}
 }
