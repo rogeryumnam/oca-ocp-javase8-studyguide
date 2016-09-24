@@ -10,14 +10,14 @@ public class StringBuilderMethods {
 		StringBuilder sb = new StringBuilder("animals");
 
 		// charAt(), indexOf(), length(), and substring() - work exactly the same as the String class
-		String sub = sb.substring(sb.indexOf("a"), sb.indexOf("al"));
-		int len = sb.length();
-		char ch = sb.charAt(6);
-		System.out.println(sub + " " + len + " " + ch);
+		String sub = sb.substring(sb.indexOf("a"), sb.indexOf("al"));  // sub = "anim"
+		int len = sb.length();  // 7
+		char ch = sb.charAt(6);  // 's'
+		System.out.println(sub + " " + len + " " + ch);  // "anim 7 s"
 
 		// append()
-		StringBuilder sb1 = new StringBuilder().append(1).append('c');
-		sb1.append("-").append(true);
+		StringBuilder sb1 = new StringBuilder().append(1).append('c');  // sb1 = "1c"
+		sb1.append("-").append(true);  // sb1 = "1c-true"
 		System.out.println(sb1);  // 1c-true
 
 		// insert()
@@ -29,17 +29,17 @@ public class StringBuilderMethods {
 
 		// delete() and deleteCharAt()
 		StringBuilder sb3 = new StringBuilder("abcdef");
-		sb3.delete(1, 3);         // sb = adef
+		sb3.delete(1, 3);         // sb3 = adef
 		//sb3.deleteCharAt(5);    // throws an exception
 		System.out.println(sb3);  // adef
 
 		// reverse()
 		StringBuilder sb4 = new StringBuilder("ABC");
-		sb4.reverse();
+		sb4.reverse();  // sb4 = "CBA"
 		System.out.println(sb4);  // CBA
 
 		// toString()
-		String s = sb.toString();
-		System.out.println(s);
+		String s = sb.toString();  // s = "animals"
+		System.out.println(s);  // animals
 	}
 }
