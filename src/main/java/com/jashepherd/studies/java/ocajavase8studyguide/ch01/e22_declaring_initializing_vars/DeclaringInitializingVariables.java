@@ -5,7 +5,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch01.e22_declaring_init
  * Declaring and Initializing Variables<br/>
  * page 25
  */
-public class DeclaringInitializingObjRefs {
+public class DeclaringInitializingVariables {
 	public static void main(String[] args) {
 		// declaring variables
 		String zooName;
