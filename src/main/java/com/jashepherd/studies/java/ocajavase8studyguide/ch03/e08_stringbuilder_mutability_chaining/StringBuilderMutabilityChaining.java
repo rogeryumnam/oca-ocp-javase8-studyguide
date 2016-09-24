@@ -11,14 +11,14 @@ public class StringBuilderMutabilityChaining {
 		StringBuilder sb = new StringBuilder("start");
 		sb.append("+middle");                    // sb = "start+middle"
 		StringBuilder same = sb.append("+end");  // sb and same = "start+middle+end"
-		System.out.println("sb = " + sb);
-		System.out.println("same = " + same);
+		System.out.println("sb = " + sb);        // "sb = start+middle+end"
+		System.out.println("same = " + same);    // "same = start+middle+end"
 
 		// only one StringBuilder object - a and b point to the same object
 		StringBuilder a = new StringBuilder("abc");
 		StringBuilder b = a.append("de");
 		b = b.append("f").append("g");
-		System.out.println("a=" + a);
-		System.out.println("b=" + b);
+		System.out.println("a=" + a);  // "a=abcdefg" - a and b point to same StringBuilder object
+		System.out.println("b=" + b);  // "b=abcdefg" - a and b point to same StringBuilder object
 	}
 }
