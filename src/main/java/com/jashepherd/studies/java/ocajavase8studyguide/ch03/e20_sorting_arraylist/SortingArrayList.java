@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Chapter 3: Core Java APIs<br>
  * Understanding an ArrayList<br>
- * Sorting ArrayList - pages 138
+ * Sorting ArrayList - page 138
  */
 public class SortingArrayList {
 	public static void main(String... args) {
