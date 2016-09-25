@@ -12,6 +12,10 @@ public class StringMethods {
 		// length()
 		System.out.println(string.length());  // 7
 
+		// concat() - rarely used but can but used instead of +
+		System.out.println(string.concat(" afoot."));
+		System.out.println(string + " afoot.");
+
 		// charAt()
 		System.out.print(string.charAt(0));  // a
 		System.out.println(string.charAt(6));  // s

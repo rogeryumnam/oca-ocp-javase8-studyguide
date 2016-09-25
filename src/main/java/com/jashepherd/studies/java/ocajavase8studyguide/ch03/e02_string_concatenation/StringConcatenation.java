@@ -20,5 +20,11 @@ public class StringConcatenation {
 		s += "2";              // s currently holds "12"
 		s += 3;                // s currently holds "123"
 		System.out.println(s); // 123
+
+		System.out.println();
+
+		// concat() - rarely used but can but used instead of +
+		System.out.println(four.concat(" and more"));
+		System.out.println(four + " and more");
 	}
 }
