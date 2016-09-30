@@ -3,7 +3,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch04.e19_encapsulating_
 /**
  * Chapter 4: Methods and Encapsulation<br>
  * Encapsulating Data<br>
- * page 205-206
+ * pages 205-206
  */
 public class Swan {
 	private int numberEggs;  // private
