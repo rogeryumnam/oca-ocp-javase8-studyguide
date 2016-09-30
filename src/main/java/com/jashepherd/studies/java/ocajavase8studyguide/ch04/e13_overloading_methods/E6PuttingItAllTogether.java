@@ -19,21 +19,21 @@ public class E6PuttingItAllTogether {
 }
 
 class Glider2 {
-	public static String glide(String s) {
+	public String glide(String s) {
 		return "1";
 	}
-	public static String glide(String... s) {
+	public String glide(String... s) {
 		return "2";
 	}
-	public static String glide(Object o) {
+	public String glide(Object o) {
 		return "3";
 	}
-	public static String glide(String s, String t) {
+	public String glide(String s, String t) {
 		return "4";
 	}
 }
 
 class TooManyConversions {
-	public static void play(Long l) {}
-	public static void play(Long... l) {}
+	public void play(Long l) {}
+	public void play(Long... l) {}
 }
