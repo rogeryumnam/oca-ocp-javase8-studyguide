@@ -11,7 +11,7 @@ import java.util.function.Predicate;
  * Writing Simple Lambdas<br>
  * Lambda Example - pages 214-215
  */
-public class PredicateSearch {
+public class E1PredicateSearch {
 	public static void main(String[] args) {
 		List<Animal> animals = new ArrayList<Animal>();
 		animals.add(new Animal("fish", false, true));

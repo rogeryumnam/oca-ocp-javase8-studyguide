@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
+ * Chapter 4: Methods and Encapsulation<br>
+ * Writing Simple Lambdas<br>
+ * Predicates - page 215
  */
 public class E2PredicateExample {
 	public static void main(String[] args) {
