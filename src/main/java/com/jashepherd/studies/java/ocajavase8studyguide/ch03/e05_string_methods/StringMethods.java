@@ -13,8 +13,8 @@ public class StringMethods {
 		System.out.println(string.length());  // 7
 
 		// concat() - rarely used but can but used instead of +
-		System.out.println(string.concat(" afoot."));
-		System.out.println(string + " afoot.");
+		System.out.println(string.concat(" afoot."));  // animals afoot.
+		System.out.println(string + " afoot.");        // animals afoot.
 
 		// charAt()
 		System.out.print(string.charAt(0));  // a
