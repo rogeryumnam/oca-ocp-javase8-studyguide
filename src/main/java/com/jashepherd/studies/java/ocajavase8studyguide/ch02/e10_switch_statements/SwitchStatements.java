@@ -4,6 +4,16 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch02.e10_switch_stateme
  * Chapter 2: Operators and Statements<br/>
  * Understanding Java Statements<br/>
  * The switch Statement - pages 72-76
+ * <p>
+ * Data types supported by switch statements:
+ * <ul>
+ *   <li>int and Integer</li>
+ *   <li>byte and Byte</li>
+ *   <li>short and Short</li>
+ *   <li>char and Char</li>
+ *   <li>String</li>
+ *   <li>enum values</li>
+ * </ul>
  */
 public class SwitchStatements {
 	public static void main(String... args) {
