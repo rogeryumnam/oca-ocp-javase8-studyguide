@@ -20,7 +20,7 @@ public class CreateArrayOfRefVars {
 
 		// What does this array point to?
 		String names2[] = new String[2];
-		// it is a sting array called names with a size of 2 with each value being the default for the type, null in this case
+		// it is a sting array called names2 with a size of 2 with each value being the default for the type, null in this case
 
 		String[] strings = {"stringValue"};
 		Object[] objects = strings;
