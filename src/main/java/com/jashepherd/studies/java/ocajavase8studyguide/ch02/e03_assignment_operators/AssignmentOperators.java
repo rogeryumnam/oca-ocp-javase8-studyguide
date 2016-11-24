@@ -29,4 +29,5 @@ public class AssignmentOperators {
 	short y2 = 3;
 	//short z2 = x2 * y2;  // DOES NOT COMPILE
 	short z2 = (short)(x2 * y2);  // but this does work
+	int z3 = x2 * y2;  // this works too
 }
