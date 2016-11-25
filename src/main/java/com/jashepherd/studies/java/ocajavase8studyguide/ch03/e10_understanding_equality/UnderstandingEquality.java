@@ -11,8 +11,10 @@ public class UnderstandingEquality {
 		StringBuilder one = new StringBuilder();
 		StringBuilder two = new StringBuilder();
 		StringBuilder three = one.append("a");
-		System.out.println(one == two); // false
-		System.out.println(one == three); // true
+		System.out.println(one == two);         // false
+		System.out.println(one == three);       // true
+		System.out.println(one.equals(two));    // false - StringBuilder does not implement equals method
+		System.out.println(one.equals(three));  // true - StringBuilder does not implement equals method
 
 		String x = "Hello World";
 		String y = "Hello World";
