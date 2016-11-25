@@ -26,6 +26,6 @@ class TestE3DefensiveCopy {
 		sb.append(" added");
 		StringBuilder gotBuilder = notAProblem.getBuilder();
 		gotBuilder.append(" more");
-		System.out.println(notAProblem.getBuilder());
+		System.out.println(notAProblem.getBuilder());  // initial
 	}
 }

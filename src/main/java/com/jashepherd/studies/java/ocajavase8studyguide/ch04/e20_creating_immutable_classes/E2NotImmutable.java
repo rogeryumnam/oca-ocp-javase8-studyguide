@@ -28,6 +28,6 @@ class TestE2NotImmutable {
 		sb.append(" added");
 		StringBuilder gotBuilder = problem.getBuilder();
 		gotBuilder.append(" more");
-		System.out.println(problem.getBuilder());
+		System.out.println(problem.getBuilder());  // initial added more
 	}
 }
