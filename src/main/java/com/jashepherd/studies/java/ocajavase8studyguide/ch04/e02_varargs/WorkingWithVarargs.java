@@ -26,6 +26,8 @@ public class WorkingWithVarargs {
 		walk(1, 2, 3);              // 2
 		walk(1, new int[] {4, 5});  // 2
 
+//		walk(1, {4, 5});  // DOES NOT COMPILE - cannot initialize array like this, must use 'new'
+
 //		walk(1, null);  // throws a NullPointerException
 
 		// Accessing a vararg parameter is also just like accessing an array. It uses array indexing.
