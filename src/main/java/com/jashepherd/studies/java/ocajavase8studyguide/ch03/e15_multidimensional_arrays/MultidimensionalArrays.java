@@ -27,7 +27,7 @@ public class MultidimensionalArrays {
 		int[][] differentSizes = {{1, 4}, {3}, {9, 8, 7}};
 
 		// another way to create an asymmetric multidimensional array
-		int [][] args1 = new int[4][];
+		int [][] args1 = new int[4][];  // when creating multidimensional arrays, the first(outermost) array must have a size
 		args1[0] = new int[5];
 		args1[1] = new int[3];
 
