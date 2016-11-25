@@ -9,7 +9,7 @@ import static java.util.Arrays.asList;
  * Static Imports<br>
  * pages 187-188
  */
-public class BadStaticImports {
+public class E3BadStaticImports {
 	public static void main(String[] args) {
 //		Arrays.asList("one");  // DOES NOT COMPILE - failed to import the Arrays class
 		asList("one");  // but we can do this without the Arrays class

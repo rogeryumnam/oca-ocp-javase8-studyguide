@@ -8,7 +8,7 @@ import java.util.Arrays;  // regular import
  * Static Imports<br>
  * pages 187-188
  */
-public class Imports {
+public class E1Imports {
 	public static void main(String[] args) {
 		List<String> list = Arrays.asList("one", "two");  // use Arrays static method asList()
 	}
