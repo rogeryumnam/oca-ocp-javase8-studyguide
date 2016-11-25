@@ -7,7 +7,7 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch04.e13_overloading_me
  */
 public class E2OverloadingAndVarargs {
 	public void fly(int[] lengths) {}
-	// Java treets varargs like arrays so this method signature actually matches the one above
+	// Java treats varargs like arrays so this method signature actually matches the one above
 //	public void fly(int... lengths) {}  // DOES NOT COMPILE
 
 	public static void main(String... args) {
