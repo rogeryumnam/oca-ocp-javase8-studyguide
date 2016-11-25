@@ -17,10 +17,12 @@ public class DesigningMethods {
 
 	// access modifiers
 	// public, protected, default, private
-	public void walk1() {}
-//	default void walk2() {}  // DOES NOT COMPILE - omit modifier for  default access
-//	void public walk3() {}   // DOES NOT COMPILE - access modifier return type in wrong order
-	void walk4() {}
+	public void walk1() {}     // public method
+//	default void walk2() {}    // DOES NOT COMPILE - omit modifier for  default access
+//	void public walk3() {}     // DOES NOT COMPILE - access modifier return type in wrong order
+	void walk4() {}            // default method
+	protected void walk5() {}  // protected method
+	private void walk6() {}    // private method
 
 	// option specifiers
 	// static, abstract, final, synchronized, native, strictfp
