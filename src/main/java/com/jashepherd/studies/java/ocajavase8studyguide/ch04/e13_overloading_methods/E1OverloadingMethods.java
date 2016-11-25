@@ -14,7 +14,7 @@ public class E1OverloadingMethods {
 	void fly(int numMiles, short numFeet) {}
 	public void fly(short numFeet, int numMiles) throws Exception {}
 
-	// bad example
+	// bad examples
 	public void fly1(long numMiles) {}
 //	public int fly1(long numMiles) {}  // DOES NOT COMPILE - because it only differs by return type
 
