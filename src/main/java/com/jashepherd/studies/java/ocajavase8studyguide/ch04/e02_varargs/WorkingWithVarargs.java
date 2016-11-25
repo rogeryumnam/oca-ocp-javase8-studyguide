@@ -35,6 +35,6 @@ public class WorkingWithVarargs {
 	}
 
 	public static void run(int... nums) {
-		System.out.println(nums[1]);
+		System.out.println(nums[1]);  // 22
 	}
 }
