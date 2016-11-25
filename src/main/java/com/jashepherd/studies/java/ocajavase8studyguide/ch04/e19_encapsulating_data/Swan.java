@@ -16,7 +16,7 @@ public class Swan {
 			this.numberEggs = numberEggs;
 	}
 
-	// which lines follow JavaBeans naming convention
+	// which lines follow JavaBeans naming convention?
 	private boolean playing;
 	private String name;
 	public boolean getPlaying() { return playing; }  // should be isPlaying()
