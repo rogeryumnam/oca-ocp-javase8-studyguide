@@ -19,7 +19,7 @@ public class E1InitializationOrderSimple {
 	static { System.out.println(COUNT); }               // 1st
 	static { COUNT += 10; System.out.println(COUNT); }  // 2nd
 	public E1InitializationOrderSimple() {
-		System.out.println("constructor");               // 4th
+		System.out.println("constructor");              // 4th
 	}
 }
 

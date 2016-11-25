@@ -14,10 +14,10 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch04.e18_order_of_initi
  */
 public class E2InitializationOrder {
 	private String name = "Torchie";
-	{ System.out.println(name); }                // 3rd
+	{ System.out.println(name); }                 // 3rd
 	private static int COUNT = 0;
-	static { System.out.println(COUNT); }        // 1st
-	{ COUNT++; System.out.println(COUNT); }      // 4th
+	static { System.out.println(COUNT); }         // 1st
+	{ COUNT++; System.out.println(COUNT); }       // 4th
 	public E2InitializationOrder() {
 		System.out.println("constructor");        // 5th
 	}
