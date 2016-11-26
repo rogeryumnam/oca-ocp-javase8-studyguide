@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch05.e03_defining_constructors;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.e03_defining_constructors;
 
 /**
  * Chapter 5: Class Design<br>

@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch05.e02_class_access_modifiers;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.e02_class_access_modifiers;
 
 /**
  * Chapter 5: Class Design<br>

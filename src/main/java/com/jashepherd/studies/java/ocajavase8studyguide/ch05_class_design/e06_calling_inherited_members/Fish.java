@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch05.e06_calling_inherited_members;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.e06_calling_inherited_members;
 
 /**
  * Chapter 5: Class Design<br>

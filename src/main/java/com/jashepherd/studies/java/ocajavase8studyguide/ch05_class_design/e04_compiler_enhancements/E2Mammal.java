@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch05.e04_compiler_enhancements;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.e04_compiler_enhancements;
 
 /**
  * Chapter 5: Class Design<br>
