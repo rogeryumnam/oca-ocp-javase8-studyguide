@@ -12,6 +12,6 @@ package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_bloc
  *    <code>public static void main(String[] somethingElse);</code> <br>
  *    <code>static public void main(String bang_a_gong[]);</code>
  */
-public class Zoo {
+public class Zoo2 {
 	public static void main(String[] args) {}
 }
