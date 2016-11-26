@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e07_main_method;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s02_main_method;
 
 /**
  * Chapter 1: Java Building Blocks<br>
