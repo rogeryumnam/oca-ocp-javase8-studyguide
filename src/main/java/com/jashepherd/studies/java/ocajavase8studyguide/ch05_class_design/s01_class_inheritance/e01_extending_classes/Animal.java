@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.e01_extending_classes;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.s01_class_inheritance.e01_extending_classes;
 
 /**
  * Chapter 5: Class Design<br>

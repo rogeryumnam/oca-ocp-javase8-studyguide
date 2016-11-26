@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.e05_calling_constructors;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch05_class_design.s01_class_inheritance.e04_defining_constructors.ee03_calling_constructors;
 
 /**
  * Chapter 5: Class Design<br>
