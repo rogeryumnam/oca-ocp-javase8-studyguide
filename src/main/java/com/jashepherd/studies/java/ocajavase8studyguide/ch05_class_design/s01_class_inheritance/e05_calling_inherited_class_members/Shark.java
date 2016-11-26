@@ -33,6 +33,7 @@ public class Shark extends Fish {
 		System.out.print(" with " + this.numberOfFins + " fins");
 	}
 
+	// bad example
 	public void displaySharkDetails4() {
 		System.out.print("Shark with age: " + super.getAge());
 		System.out.print(" and " + super.size + " meters long");
