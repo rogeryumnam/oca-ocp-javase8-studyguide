@@ -12,7 +12,7 @@ public class SuperVsSuper extends Super {
 	}
 
 	public SuperVsSuper() {
-//		super;  // DOES NOT COMPILE
+//		super;               // DOES NOT COMPILE - super keywords used incorrectly
 //		super().setAge(10);  // DOES NOT COMPILE - super keywords used incorrectly
 	}
 }
