@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e15_same_named_classes;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e06_same_named_classes;
 
 import java.util.Date;
 
