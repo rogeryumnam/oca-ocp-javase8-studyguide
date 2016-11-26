@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e29_finalize;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s10_destroying_objects.e29_finalize;
 
 /**
  * Chapter 1: Java Building Blocks<br/>
