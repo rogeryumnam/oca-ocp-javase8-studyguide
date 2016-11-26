@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e10_packages_imports;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e10_packages_imports;
 
 import java.util.Random;  // import tells us where to find Random class
 

@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e14_naming_conflicts;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e14_naming_conflicts;
 
 /*
  * When the class is found in multiple packages, Java gives you the compiler error:

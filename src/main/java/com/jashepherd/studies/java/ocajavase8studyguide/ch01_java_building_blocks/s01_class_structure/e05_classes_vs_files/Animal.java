@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e05_classes_vs_files;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s01_class_structure.e05_classes_vs_files;
 
 /**
  * Chapter 1: Java Building Blocks<br>

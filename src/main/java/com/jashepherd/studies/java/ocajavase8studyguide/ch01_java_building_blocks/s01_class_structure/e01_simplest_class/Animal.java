@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e01_simplest_class;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s01_class_structure.e01_simplest_class;
 
 /**
  * Chapter 1: Java Building Blocks<br>

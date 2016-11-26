@@ -1,6 +1,6 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e16_package_b;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e16_package_b;
 
-import com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e16_package_a.ClassA;
+import com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e16_package_a.ClassA;
 
 /**
  * Chapter 1: Java Building Blocks<br/>
@@ -21,9 +21,9 @@ import com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_block
  * This will create e16_package_a/ClassA.class and e16_package_b/ClassB.class files right beside the .java class files.
  * <p>
  * To run ClassA:<br>
- * <code>java com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e16_package_a.ClassA</code>
+ * <code>java com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e16_package_a.ClassA</code>
  * To run ClassB:<br>
- * <code>java com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e16_package_b.ClassB</code>
+ * <code>java com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e16_package_b.ClassB</code>
  */
 public class ClassB {
 	public static void main(String[] args) {

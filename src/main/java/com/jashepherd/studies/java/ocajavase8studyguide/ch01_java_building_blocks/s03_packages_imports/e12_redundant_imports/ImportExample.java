@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e12_redundant_imports;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s03_packages_imports.e12_redundant_imports;
 
 import java.lang.System;  // redundant import
 import java.lang.*;       // redundant import

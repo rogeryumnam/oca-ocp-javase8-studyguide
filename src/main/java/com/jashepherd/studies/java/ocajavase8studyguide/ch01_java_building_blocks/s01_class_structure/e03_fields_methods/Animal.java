@@ -1,4 +1,4 @@
-package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.e03_fields_methods;
+package com.jashepherd.studies.java.ocajavase8studyguide.ch01_java_building_blocks.s01_class_structure.e03_fields_methods;
 
 /**
  * Chapter 1: Java Building Blocks<br>
