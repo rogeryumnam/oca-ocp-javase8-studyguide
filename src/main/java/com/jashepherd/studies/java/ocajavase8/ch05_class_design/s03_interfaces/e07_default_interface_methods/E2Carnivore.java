@@ -3,7 +3,7 @@ package com.jashepherd.studies.java.ocajavase8.ch05_class_design.s03_interfaces.
 /**
  * Chapter 5: Class Design<br>
  * Implementing Interfaces<br>
- * Default Interface Methods - page 275
+ * Default Interface Methods - page 276
  * <p>
  * Bad examples
  */
