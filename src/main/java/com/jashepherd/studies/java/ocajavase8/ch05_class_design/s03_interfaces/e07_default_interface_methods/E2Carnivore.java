@@ -13,5 +13,14 @@ public interface E2Carnivore {
 	public int getRequiredFoodAmount() {  // DOES NOT COMPILE - if there is a body to an interface method it must be marked default
 		return 13;
 	}
+	public static default void eatMeat2() {  // DOES NOT COMPILE - interface default methods may not be marked static
+		System.out.println("Eating meat");
+	}
+	public final default void eatMeat3() {  // DOES NOT COMPILE - interface default methods may not be marked final
+		System.out.println("Eating meat");
+	}
+	public abstract default void eatMeat3() {  // DOES NOT COMPILE - interface default methods may not be marked abstract
+		System.out.println("Eating meat");
+	}
 	*/
 }
