@@ -8,7 +8,7 @@ import com.jashepherd.studies.java.ocajavase8.ch05_class_design.s04_polymorphism
  * Understanding Polymorphism<br>
  * Casting Objects - pages 282-283
  * <p>
- * In this example, we fi rst try to convert the primate reference back to a lemur reference,
+ * In this example, we first try to convert the primate reference back to a lemur reference,
  * lemur2, without an explicit cast. The result is that the code will not compile. In the second
  * example, though, we explicitly cast the object to a subclass of the object Primate and we
  * gain access to all the methods available to the Lemur class.
@@ -30,9 +30,9 @@ public class E1Lemur extends Primate implements HasTail{
 	public static void main(String[] args) {
 		E1Lemur lemur = new E1Lemur();
 		Primate primate = lemur;
-//		E1Lemur lemur2 = primate;  // DOES NOT COMPILE
+//		E1Lemur lemur2 = primate;  // DOES NOT COMPILE - cannot cast to child without explicit cast
 
 		E1Lemur lemur3 = (E1Lemur) primate;
-		System.out.println(lemur3.age);
+		System.out.println(lemur3.age);  // 10
 	}
 }
