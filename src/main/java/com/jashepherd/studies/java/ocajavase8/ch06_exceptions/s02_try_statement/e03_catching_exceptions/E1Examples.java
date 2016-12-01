@@ -27,7 +27,7 @@ public class E1Examples {
 		}
 	}
 
-	// in this case order matters - more specific exceptions must be caught first
+	// in this case order matters and we do it correctly - more specific exceptions must be caught first
 	public void visitMonkeys() {
 		try {
 			seeAnimal();
@@ -38,7 +38,7 @@ public class E1Examples {
 		}
 	}
 
-	// bad excample where catch statements are in the wrong order
+	// bad example where catch statements are in the wrong order
 	public void visitMonkeys2() {
 		try {
 			seeAnimal();
