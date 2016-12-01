@@ -3,7 +3,7 @@ package com.jashepherd.studies.java.ocajavase8.ch06_exceptions.s01_understanding
 /**
  * Chapter 6: Exceptions<br>
  * Understanding Exceptions<br>
- * Throwing an Exception - pages 204-305
+ * Throwing an Exception - pages 304-305
  * <p>
  * Two types of exceptions (for OCA exam at least)
  * <ul>
