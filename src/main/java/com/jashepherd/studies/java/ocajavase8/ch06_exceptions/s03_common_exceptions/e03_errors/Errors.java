@@ -18,4 +18,19 @@ package com.jashepherd.studies.java.ocajavase8.ch06_exceptions.s03_common_except
  * </dl>
  */
 public class Errors {
+
+	// ExceptionInInitializerError
+	/* Exception in thread "main" java.lang.ExceptionInInitializerError
+	 * Caused by: java.lang.ArrayIndexOutOfBoundsException: -1 */
+	static {
+		int[] countsOfMoose = new int[3];
+		int num = countsOfMoose[-1];
+	}
+	public static void main(String[] args) { }
+
+
+	// StackOverflowError
+	public static void doNotCodeThis(int num) {
+		doNotCodeThis(1);  // Exception in thread "main" java.lang.StackOverflowError - infinite recursion
+	}
 }
